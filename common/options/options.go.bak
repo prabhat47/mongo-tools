@@ -19,8 +19,8 @@ import (
 
 // Gitspec that the tool was built with. Needs to be set using -ldflags
 var (
-	VersionStr = "r3.5.13-41-g7067f76"
-	Gitspec    = "7067f765eb93ff5e1c601fc57317e68eda1978a5"
+	VersionStr = "built-without-version-string"
+	Gitspec    = "built-without-git-spec"
 )
 
 var (
